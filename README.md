@@ -12,11 +12,6 @@
 
 **Workflow** — Git · GitHub · Figma · Claude Code
 
-## GitHub
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmon-dev&layout=compact&hide_border=true)](https://github.com/ddmon-dev)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddmon-dev&show_icons=true&hide_border=true&hide=issues)](https://github.com/ddmon-dev)
-
 ## Links
 
 - 포트폴리오 — https://portfolio.ddmon.com
